@@ -1,0 +1,25 @@
+---
+title: "Introduction to R"
+author: "Vlada"
+date: "2026-07-22"
+output: html_document
+---
+
+
+# Practice Assignment 1
+
+This R Markdown document demonstrates how to print the integers from 1 to 10 using R.
+
+## R code
+
+The following loop prints each integer from 1 to 10.
+
+```{r}
+
+for (number in 1:10) {
+
+  print(number)
+
+}
+
+```
