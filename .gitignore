@@ -1,4 +1,8 @@
-.Rproj.user
+.Rproj.user/
 .Rhistory
 .RData
 .Ruserdata
+.DS_Store
+__pycache__/
+.ipynb_checkpoints/
+.spyproject/
